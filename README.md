@@ -89,4 +89,4 @@ await api.generateAuthURL(options) // -> https://accounts.bludood.com/auth/autho
 
 ## Help
 
-https://accounts.bludood.com/dash/help
+https://accounts.bludood.com/developers/help
