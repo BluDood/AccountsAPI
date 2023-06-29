@@ -10,7 +10,7 @@ npm install @bludood/accountsapi
 
 ## Usage
 
-[Example](https://github.com/BluDood/AccountsAPI/tree/master/example)
+[Example](https://github.com/BluDood/AccountsAPI/tree/main/example)
 
 Note: All functions are documented with JSDoc
 
