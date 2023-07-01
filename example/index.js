@@ -1,5 +1,5 @@
-import AccountsAPI from '@bludood/accountsapi'
 import express from 'express'
+import AccountsAPI from '@bludood/accountsapi'
 
 const id = 'your app id here'
 const secret = 'your app secret here'
